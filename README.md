@@ -1,55 +1,57 @@
-## 👋 Welcome to AgenticPH Labs
+## 🌱 AgenticPH Labs
 
-**Agentic AI systems for Philippine enterprises — managed by the [Hermes Agent System](https://hermes-agent.nousresearch.com).**
+**Open-source AI tools, built by Filipinos, for the Philippines.**
 
-Every repository here is scaffolded, tested, documented, and deployed through automated agent workflows. All projects follow standardized CI/CD, documentation, and quality gates.
+AgenticPH Labs is a community of Filipino builders crafting practical AI applications that solve real problems — from market intelligence to procurement analysis. Every project here is open source, freely available, and designed to grow with the people who use it.
 
----
-
-### 📌 Pinned Repositories
-
-| Repo | Description | Status |
-|------|-------------|--------|
-| [🛠️ software-template](https://github.com/agenticph-labs/software-template) | Standardized Python/FastAPI template with CI/CD, health checks, and cross-platform startup scripts | ✅ Stable |
-| [📊 P2 — PH Market Intelligence](https://github.com/agenticph-labs/p2-ph-market-intelligence) | Philippine coffee shop market intelligence dashboard — Streamlit, Pandas, Plotly | ✅ Live |
-| [📄 P3 — RFP Analyzer](https://github.com/agenticph-labs/p3-rfp-analyzer) | AI-powered procurement document analyzer — Python, LLM | ✅ Live |
-
-### 📂 Full Portfolio
-
-| # | Project | Stack | Status |
-|---|---------|-------|--------|
-| P1 | [Client Intake & Scoping](https://github.com/agenticph-labs/p1-client-intake) | Python, Streamlit | ✅ Live |
-| P2 | [PH Market Intelligence](https://github.com/agenticph-labs/p2-ph-market-intelligence) | Streamlit, Pandas, Plotly | ✅ Live |
-| P3 | [RFP Analyzer](https://github.com/agenticph-labs/p3-rfp-analyzer) | Python, LLM | ✅ Live |
-| P4 | [Customer Feedback Intel](https://github.com/agenticph-labs/p4-customer-feedback-intel) | Python, Streamlit, scikit-learn | ✅ Live |
-| P5 | [Competitive Intel](https://github.com/agenticph-labs/p5-competitive-intel) | Python, Streamlit | ✅ Live |
-| P6 | [Research Decision](https://github.com/agenticph-labs/p6-research-decision) | Jupyter, Python | ✅ Beta |
-| P7 | [Paperclip](https://github.com/agenticph-labs/p7-paperclip) | Paperclip orchestration deployment | ✅ Demo-ready |
+We believe technology should serve communities, not the other way around. That means tools that are accessible, understandable, and adaptable — because the best solutions come from the people who live the problems.
 
 ---
 
-### ⚙️ Automation Stack
+### 🌿 Why Open Source Matters for the Philippines
 
-All repos are standardized with:
+For too long, the Philippine tech ecosystem has been a consumer of technology built elsewhere. Open source changes that.
 
-- **CI/CD** — GitHub Actions (Test + Security workflows on every push)
-- **Documentation** — PH Use Case sections, cross-platform startup scripts
-- **Quality Gates** — Ruff linting, pytest with 80%+ coverage, Bandit SAST
-- **Deployment** — Streamlit Cloud integration for demo apps
+When code is open, anyone can learn from it, adapt it, and build on it. A student in Davao can study how an AI pipeline works. A startup in Iloilo can fork a tool and tailor it to their market. A government office can deploy a solution without vendor lock-in.
+
+Open source isn't just about free software — it's about **tech sovereignty**. It's about building local capacity, fostering collaboration, and creating tools that reflect Filipino needs, not Silicon Valley priorities.
+
+That's what AgenticPH Labs is for: a growing collection of tools built in the open, for the open.
+
+---
+
+### 📌 Active Projects
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [P1 — Client Intake & Scoping](https://github.com/agenticph-labs/p1-client-intake) | Workflow automation for consulting client intake | Python, Streamlit | ✅ Live |
+| [P2 — PH Market Intelligence](https://github.com/agenticph-labs/p2-ph-market-intelligence) | Philippine coffee shop market intelligence dashboard | Streamlit, Pandas, Plotly | ✅ Live |
+| [P3 — RFP Analyzer](https://github.com/agenticph-labs/p3-rfp-analyzer) | AI-powered procurement document analyzer | Python, LLM | ✅ Live |
+| [P4 — Customer Feedback Intel](https://github.com/agenticph-labs/p4-customer-feedback-intel) | NLP sentiment & topic analysis for customer feedback | Python, Streamlit, scikit-learn | ✅ Live |
+| [P5 — Competitive Intel](https://github.com/agenticph-labs/p5-competitive-intel) | Competitive intelligence gathering | Python | 🚧 In Progress |
+| [P6 — Research Decision](https://github.com/agenticph-labs/p6-research-decision) | PH coffee market entry study | Jupyter, Python | ✅ Beta |
+| [P7 — Paperclip](https://github.com/agenticph-labs/p7-paperclip) | Multi-agent orchestration platform | Python, TypeScript | 🚧 In Progress |
 
 ---
 
 ### 🔗 Links
 
-- [Portfolio Site](https://agenticph-labs.github.io/portfolio)
-- [Software Template](https://github.com/agenticph-labs/software-template) — Bootstrap new projects with batteries included
+- [🌐 Portfolio Site](https://agenticph-labs.github.io/portfolio) — See these projects in action
+- [📦 Software Template](https://github.com/agenticph-labs/software-template) — Bootstrap new projects with batteries included
 
 ---
 
-### Need a production system?
+### 🤝 Get Involved
 
-AgenticPH Labs builds and operates production-grade software for Philippine enterprises. Reach out at **agenticph.com** for consulting, managed deployments, or custom development.
+AgenticPH Labs grows through contribution. Whether you're a developer, designer, researcher, or someone who just believes in open tech for the Philippines, there's a place for you here.
+
+- **Use the tools** — Try them out, report issues, suggest features
+- **Contribute code** — PRs are welcome on any project
+- **Share knowledge** — Write docs, tutorials, or use cases in Filipino and English
+- **Spread the word** — Tell another Filipino builder about open source
+
+Start with any project above, or reach out to join the community.
 
 ---
 
-*Built and maintained by the Hermes Agent System · agenticph.com*
+*Built in the open, for the open. 🌏🇵🇭*
